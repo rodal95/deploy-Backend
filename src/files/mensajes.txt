@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "author": {
+      "name": "rodrigo",
+      "email": "alday@gmail.com"
+    },
+    "text": "hola",
+    "timestamp": "11/1/2023"
+  },
+  {
+    "id": 2,
+    "author": {
+      "name": "rodrigo",
+      "email": "alday@gmail.com"
+    },
+    "text": "hola",
+    "timestamp": "11/1/2023"
+  },
+  {
+    "id": 3,
+    "author": {
+      "name": "rodrigo",
+      "email": "alday@gmail.com"
+    },
+    "text": "hola",
+    "timestamp": "11/1/2023"
+  },
+  {
+    "id": 4,
+    "author": {
+      "name": "rodrigo",
+      "email": "alday@gmail.com"
+    },
+    "text": "asdf",
+    "timestamp": "11/1/2023"
+  }
+]
